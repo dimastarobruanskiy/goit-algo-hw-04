@@ -1,0 +1,6 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Olga Petrenko,2500
+Ivan Ivanov,1800
+Maria Shevchenko,3200
